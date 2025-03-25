@@ -1,0 +1,10 @@
+Aula-03
+-Criar repositório no github;
+-Git clone e subir o código no vscode
+-git branch "nomeDaBranch" - Para criar uma branch
+-git checkout "nomeDaBranch" - Para acessar a branch
+-git add. - Para adicionar os arquivos no commit
+-git commit -m "MensagemDoCommit" - Para dar o commit
+
+-git merge "nomeDaBranch" - Para dar merge nas duas branch com a main 
+-git push para mandar para o github
