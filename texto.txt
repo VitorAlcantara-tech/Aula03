@@ -8,3 +8,7 @@ Aula-03
 
 -git merge "nomeDaBranch" - Para dar merge nas duas branch com a main 
 -git push para mandar para o github
+
+-git stash lis - Para guarda alteraçoes
+-git stash pop - Para voltar as alteraçoes
+-git push -u origin "nomeDaBranch" - Para publicar uma brancho nova
